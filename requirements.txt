@@ -1,0 +1,10 @@
+gTTS==2.2.4
+numpy==1.22.3
+opencv-python==4.5.5.64
+playsound==1.3.0
+face-recognition==1.3.0
+glob
+os
+face_recognition.api
+csv
+subprocess
